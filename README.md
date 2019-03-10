@@ -1,5 +1,7 @@
 # About PEM Lab
 
+![PEM Logo](./logo.png)
+
 PEM : Pervasive Elastic Laboratory
 
 ## ABOUT US
