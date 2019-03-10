@@ -2,8 +2,6 @@
 
 ![PEM Logo](./logo.png)
 
-PEM : Pervasive Elastic Laboratory
-
 ## ABOUT US
 
 Subject : Big Data, Distributed Computing, etc
@@ -16,7 +14,7 @@ Tel : (+82)320-1105
 
 ## Member
 
-### Prof
+### PROFESSOR
 **Hayoon Song** ( hayoon@hongik.ac.kr )
 
 ### GRADUATE STUDENT
@@ -25,7 +23,7 @@ Tel : (+82)320-1105
 - SJ Kim
 
 ### UNDER GRADUATE STUDENT
-- Minsuk Sung
+- Minsuk Sung ( mssung94@gmail.com )
 - Insoo Han
 - Hyechang Han
 - Geunju Lee
